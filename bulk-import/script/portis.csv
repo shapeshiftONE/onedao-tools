@@ -1,0 +1,66 @@
+title,original,lastUpdated,articleContent,description
+Getting Started With Portis,https://shapeshift.zendesk.com/hc/en-us/articles/360010466899-Getting-Started-With-Portis,1 month ago,"<div class=""article-body""><h2><strong>What is Portis?&nbsp;</strong></h2>
+<p><span>Portis is the first compatible software wallet with the New ShapeShift Platform! A software wallet is a more convenient way of storing your crypto assets. While hardware wallets, such as KeepKey, are more secure, wallets like Portis have no cost barrier of entry, do not require a physical device, and can be logged into from any machine (as long as you remember your password)!</span></p>
+<h2><strong>How Do I Create a Portis Wallet?&nbsp;</strong></h2>
+<p><span>Getting your wallet setup to use takes no longer than five minutes. To start, head to beta.shapeshift.com. If you have not connected a wallet previously, the dashboard should prompt you to “Create or connect a wallet”. Next to Portis, click “Select”.</span></p>
+<p class=""wysiwyg-text-align-center""><img src=""/hc/article_attachments/360006303020/Screen_Shot_2019-11-11_at_5.46.52_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.46.52_PM.png""></p>
+<p class=""wysiwyg-text-align-left""><br><span>A popup in the upper right-hand corner of the screen will appear. Click “Continue”.</span></p>
+<p class=""wysiwyg-text-align-center""><img src=""/hc/article_attachments/360006323179/Screen_Shot_2019-11-11_at_5.47.44_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.47.44_PM.png""></p>
+<p class=""wysiwyg-text-align-left""><span>Log in if you have already created an account with Portis.</span></p>
+<p class=""wysiwyg-text-align-center""><img src=""/hc/article_attachments/360006323199/Screen_Shot_2019-11-11_at_5.48.49_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.48.49_PM.png""></p>
+<p><span>If you are new, click “Create new wallet"".</span></p>
+<p><span>You're almost finished! Enter a valid email address and password (twice). Click “Register”.</span></p>
+<p class=""wysiwyg-text-align-center""><img src=""/hc/article_attachments/360006303060/Screen_Shot_2019-11-11_at_5.49.45_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.49.45_PM.png""></p>
+<p><strong>IMPORTANT: If your password is lost/forgotten you will not be able to access your funds without knowing your recovery sentence.&nbsp; Please see <a href=""/hc/en-us/articles/360010358680-I-Need-Help-With-My-Portis-Password-Recovery-Sentence-Can-You-Help-"" target=""_self"">this link</a> for instructions on securing your password/recovery sentence.</strong></p>
+<p><span>That’s it! If successful, you will see “Portis Connected” at the top of beta.shapeshift.com&nbsp;</span></p>
+<p><span>Congratulations! You can now track, send, receive, and trade your assets using the ShapeShift Platform.</span></p>
+<h2><strong>How to Send</strong></h2>
+<p><span>In the Assets tab, you will see what coin/token balances you have. Click on the asset you wish to send and then click “Send”. Enter the recipient address and amount you wish to send. Click “Continue”.</span></p>
+<p class=""wysiwyg-text-align-center""><span><img src=""/hc/article_attachments/360006303080/Screen_Shot_2019-11-11_at_5.51.16_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.51.16_PM.png""></span></p>
+<p><span>You will be asked to “Sign Transaction on Your Device”.&nbsp;</span></p>
+<p class=""wysiwyg-text-align-center""><img src=""/hc/article_attachments/360006323239/Screen_Shot_2019-11-11_at_5.51.57_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.51.57_PM.png""></p>
+<p><span>Since you are not using a device, a popup in the upper right-hand corner will appear. If everything looks correct, click “Confirm”.</span></p>
+<p class=""wysiwyg-text-align-center""><span><img src=""/hc/article_attachments/360006303100/Screen_Shot_2019-11-11_at_5.53.28_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.53.28_PM.png""></span></p>
+<p><span>If successful, you will see that the send has completed along with transaction details.</span></p>
+<p class=""wysiwyg-text-align-center""><span><img src=""/hc/article_attachments/360006323279/Screen_Shot_2019-11-11_at_5.54.09_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.54.09_PM.png""></span></p>
+<h2><strong>How to Receive:&nbsp;</strong></h2>
+<p><span>Click “Receive” at the top of the platform. Select any asset you wish to receive.</span></p>
+<p class=""wysiwyg-text-align-center""><span><img src=""/hc/article_attachments/360006303120/Screen_Shot_2019-11-11_at_5.54.46_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.54.46_PM.png""></span></p>
+<p><span>Your receive address and QR code will be displayed.</span></p>
+<p class=""wysiwyg-text-align-center""><span><img src=""/hc/article_attachments/360006303160/Screen_Shot_2019-11-11_at_5.54.46_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.54.46_PM.png""></span></p>
+<p><span>If you’d like to verify that the address is one of your Portis addresses, click the eye icon.</span></p>
+<p class=""wysiwyg-text-align-center""><span><img src=""/hc/article_attachments/360006303180/Screen_Shot_2019-11-11_at_5.55.27_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.55.27_PM.png""></span></p>
+<p><span>Confirm that the address is verified and you’re good to go!</span></p>
+<p class=""wysiwyg-text-align-center""><span><img src=""/hc/article_attachments/360006303200/Screen_Shot_2019-11-11_at_5.56.50_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.56.50_PM.png""></span></p>
+<p class=""wysiwyg-text-align-center"">&nbsp;</p>
+<h2 class=""wysiwyg-text-align-left""><span>How To Delete Your Wallet</span></h2>
+<p><span>If for some reason you want to delete your wallet/account, follow the instructions below:</span></p>
+<p><span>1. Go to the <a href=""https://wallet.portis.io/menu"" target=""_self""><strong>settings/menu page</strong></a> on your Portis wallet.</span></p>
+<p><span>2. Click ""Delete Account"".</span></p>
+<p><span><img src=""/hc/article_attachments/4410095005069/Screen_Shot_2021-09-26_at_3.05.59_PM.png"" alt=""Screen_Shot_2021-09-26_at_3.05.59_PM.png"" width=""375"" height=""629""></span></p>
+<p class=""wysiwyg-text-align-left"">&nbsp;</p>
+<p><span>If you have any additional questions please open a Support ticket </span><strong><a href=""/hc/en-us/requests/new"">here</a></strong><span> or If you need help from Portis directly please follow this link </span><a href=""https://www.portis.io/help""><span><strong>here</strong></span></a><span>.</span></p>
+<p><br><br></p></div>",The Non-Custodial Blockchain Wallet that Makes Apps Simple for Everyone
+I Need Help With My Portis Password/Recovery Sentence.,https://shapeshift.zendesk.com/hc/en-us/articles/360010358680-I-Need-Help-With-My-Portis-Password-Recovery-Sentence-,2 months ago,"<div class=""article-body""><p><span>When registering a Portis account, you create a wallet, which is immediately encrypted client-side with a secret that was generated from your password. This password never leaves your device. The Portis servers safeguard only user-encrypted wallets, so you can rest assured that nobody but you can access your wallet or sign any transactions without your consent. However, because the private key used to encrypt your recovery phrase is derived from the password you pick, if you lose your password <strong>and</strong> recovery phrase, your funds are lost forever.&nbsp;</span><span>As long as you have access to either, you have control of your funds!&nbsp;</span></p>
+<p><span>So please - log in and back up that phrase somewhere safe. It is your only way to reset your password in case you forget it.</span></p>
+<h2><strong>How Do I See My Recovery Sentence?</strong></h2>
+<p><span>Once you’re connected to your Portis wallet, head to the “Settings” tab of the platform: </span><strong><a href=""https://beta.shapeshift.com/settings"">https://beta.shapeshift.com/settings</a></strong></p>
+<p><span>Click the drop-down arrow.&nbsp;</span></p>
+<p><img src=""/hc/article_attachments/360006323119/Screen_Shot_2019-11-11_at_5.40.24_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.40.24_PM.png""></p>
+<p><span>Click “Get Recovery Sentence”.</span></p>
+<p><img src=""/hc/article_attachments/360006323139/Screen_Shot_2019-11-11_at_5.41.05_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.41.05_PM.png""></p>
+<p><span>You will be redirected to: </span><strong><a href=""https://wallet.portis.io/recovery-phrase"">https://wallet.portis.io/recovery-phrase</a></strong><span> where your recovery sentence is visible. For security, please be sure you are alone when viewing your recovery sentence.&nbsp;</span></p>
+<p><strong>In the event that you forget/lose your password, you’ll need both the email address associated with your account as well as your recovery sentence.</strong></p>
+<p><span>For more settings, visit </span><a href=""https://wallet.portis.io/""><span><strong>wallet.portis.io</strong></span></a><span>. From there you can enable/disable 2FA, change password, view recovery phrase, etc.&nbsp;</span></p>
+<p><img src=""/hc/article_attachments/360006302940/Screen_Shot_2019-11-11_at_5.41.50_PM.png"" alt=""Screen_Shot_2019-11-11_at_5.41.50_PM.png""></p>
+<p><span>If you have any additional questions, please open a Support ticket </span><a href=""/hc/en-us/requests/new""><span><strong>here</strong></span></a><span> or, if you need help from Portis directly, please follow this link </span><a href=""https://www.portis.io/help""><span><strong>here</strong></span></a><span>.</span></p></div>","When registering a Portis account, you create a wallet, which is immediately encrypted client-side with a secret that was generated from your password."
+Warning: Fake Portis App Phishing Attempts,https://shapeshift.zendesk.com/hc/en-us/articles/4407461358989-Warning-Fake-Portis-App-Phishing-Attempts,2 months ago,"<div class=""article-body""><p>Portis does <strong>NOT</strong> have a Google Play or iOS app. The <strong>ONLY</strong> safe Portis wallet is available at:&nbsp;<strong><a class=""c-link"" href=""https://wallet.portis.io/"" target=""_blank"" rel=""noopener"">https://wallet.portis.io</a></strong>.</p>
+<p>&nbsp;</p>
+<p><img src=""/hc/article_attachments/4407451500173/Screen_Shot_2021-08-19_at_2.56.14_PM.png"" alt=""Screen_Shot_2021-08-19_at_2.56.14_PM.png""></p>
+<p>&nbsp;</p>
+<p>All others are scams intended to steal your crypto. Please use caution and keep your funds secure!</p>
+<p>&nbsp;</p>
+<p>An example of a <strong>FAKE/SCAM ""</strong>Portis"" App:</p>
+<p><img src=""/hc/article_attachments/4407461272205/portisapp.jpg"" alt=""portisapp.jpg"" width=""332"" height=""84""></p>
+<p><img src=""/hc/article_attachments/4407461278989/portisapp2.jpg"" alt=""portisapp2.jpg"" width=""401"" height=""562""></p>
+<p>Questions? contact our support team at:&nbsp;<strong><a class=""c-link"" href=""https://portis.io/help"" target=""_blank"" rel=""noopener noreferrer"">https://portis.io/help</a></strong>.</p></div>",Beware! Portis does NOT have a Google Play or iOS app.

@@ -3,7 +3,7 @@
 default_markdown = """---
 title: {doc.title}
 description: {doc.description}
-published: {doc.published}
+published: {doc.publishedLowercase}
 date: {doc.currentISODatetime}
 tags: {doc.joinedTags}
 editor: {doc.editor}

@@ -37,6 +37,11 @@ class Document:
         return self.currentDatetime.isoformat(timespec='milliseconds') + 'Z'
 
     @property
+    def publishedLowercase(self) -> int:
+        # Lowercase representation of the boolean value.
+        return str(self.published).lower()
+
+    @property
     def wordCount(self) -> int:
         # Tag words + Title + Content
         text = " ".join(self.tags) + self.title + " " + self.description + " " + self.htmlContent.get_text()

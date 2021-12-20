@@ -171,6 +171,7 @@ for category in import_urls:
         currentDoc.currentDatetime = datetime.datetime.now()
         # List of tags, the string version is a property of this object.
         currentDoc.tags = list(map(lambda x: x.lower(), s.find(attrs={'class': 'single-tags-wrapper'}).strings))
+        currentDoc.tags.append('needs-review')
         currentDoc.author = s.find(attrs={'class': 'single-posted-author'}).text
         # Prop an empty article if the article has no content
         currentDoc.htmlContent = s.find(attrs={'class': 'post-content w-richtext'}) or BeautifulSoup('', 'html.parser')

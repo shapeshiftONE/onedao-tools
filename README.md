@@ -1,4 +1,4 @@
-# ShapeShiftComToMD
+# shapeshift-com-import
 
 ## Description
 

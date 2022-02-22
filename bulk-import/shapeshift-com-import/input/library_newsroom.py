@@ -1,3 +1,14 @@
+# Mostly arguments to pass to BeautifulSoup.find() to search in the HTML soup
+import_params = {
+    'title': {'name': 'h1'},
+    'date': {'attrs': {'class': 'single-posted-on'}},
+    'date_attr': None, # If the date is within an attribute of the element specify it here.
+    'date_format': '%B %d, %Y', # Format of the date on the source
+    'tags': {'attrs': {'class': 'single-tags-wrapper'}},
+    'author': {'attrs': {'class': 'single-posted-author'}},
+    'content': {'attrs': {'class': 'post-content w-richtext'}},
+    'subtitle': {'attrs': {'class': 'lockup-internal-subhead'}},
+}
 # From: https://shapeshift.com/library and https://shapeshift.com/newsroom
 import_urls = {
     'library': [

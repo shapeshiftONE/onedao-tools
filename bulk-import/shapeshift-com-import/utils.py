@@ -1,4 +1,6 @@
 import re
+from urllib.parse import urljoin
+from bs4 import BeautifulSoup
 
 # Trucate a string if needed and ads a suffix.
 def smart_truncate(content, length=100, suffix=' ...'):
@@ -47,6 +49,18 @@ def fixEmptyInlinesEOL(text):
 def fixSuperfluousNewlines(text):
     # Reduces successive empty new lines to 1 (including when a line has only whitespace)
     return re.sub(r'\n\s*\n', r'\n\n', text)
+
+def singleLine(text, delimiter=' '):
+    # Transform a multiple line string into a single line, replacing new lines by a delimiter (default is a space character)
+    # text = fixSuperfluousNewlines(text).strip()
+    return re.sub(r'\n\n*', r'{delimiter}', text).strip()
+
+def expandRelativeURL(s: BeautifulSoup, base_url):
+    # Replaces relative URL for anchors and images in a BeautifulSoup tree with absolute ones, based on the base URL.
+    for link in s.find_all(name={'a'}, attrs={'href': True}):
+        link.attrs['href'] = urljoin(base_url, link.attrs['href'])
+    for img in s.find_all(name={'img'}, attrs={'src': True}):
+        img.attrs['src'] = urljoin(base_url, img.attrs['src'])
 
 # Chain Markdown fixes, order matters.
 def fixMarkDown(text):

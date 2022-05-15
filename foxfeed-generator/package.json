@@ -1,0 +1,29 @@
+{
+  "name": "feedgen",
+  "version": "0.4.0",
+  "private": true,
+  "scripts": {
+    "gen": "node scripts/index.js && node scripts/getText.js",
+	  "gen meta": "node scraper/index.js",
+    "gen full": "node scraper/getText.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.2",
+    "core-js": "^3.19.3",
+    "crawler": "^1.3.0",
+    "fs-extra": "^10.0.0",
+    "reading-time": "^1.5.0",
+    "selenium-webdriver": "^4.1.2",
+    "timeago.js": "^4.0.2",
+  },
+  "devDependencies": {
+    "open-graph-scraper": "^4.11.0",
+    "prettier": "^2.5.1",
+    "rss-parser": "^3.12.0",
+    "slugify": "^1.6.5",
+  },
+  "engines": {
+    "npm": "7.x",
+    "node": "16.x"
+  }
+}

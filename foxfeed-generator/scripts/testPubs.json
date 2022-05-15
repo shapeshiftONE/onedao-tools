@@ -1,0 +1,79 @@
+[
+  {
+    "type": "Blockchain & Crypto",
+    "path": "blockchain",
+    "publications": [
+      {
+        "name": "Coin Telegraph",
+        "url": "https://cointelegraph.com",
+        "rss": "https://cointelegraph.com/rss/tag/shapeshift",
+        "key": "cointelegraph",
+        "icon": "/images/cointelegraph.webp",
+        "getFull" : true,
+        "fullSelector": ".post__article"
+      },
+      {
+        "name": "Coin Desk",
+        "url": "https://www.coindesk.com",
+        "rss": "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml",
+        "key": "coindesk",
+        "icon": "/images/coindesk.png",
+        "getFull" : true,
+        "fullSelector": ".main-body-grid > div:nth-child(3) > div:first-child"
+      },
+      {
+        "name": "Decrypt",
+        "url": "https://decrypt.co",
+        "rss": "https://decrypt.co/feed",
+        "key": "decrypt",
+        "icon": "/images/decrypt.png",
+        "getFull" : true,
+        "fullSelector": ".post-content:not(:last)"
+      },
+      {
+        "name": "Token Insight",
+        "url": "https://www.tokeninsight.com/en/report",
+        "rss": "https://daofeed.herokuapp.com/tokeninsight/report/en",
+        "key": "token-insight",
+        "icon": "/images/token-insight.png",
+        "getFull" : true,
+        "fullSelector": ".detail_left"
+      },
+      {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/",
+        "rss": "https://thenextweb.com/feed",
+        "key": "the-next-web",
+        "icon": "/images/tnw.webp",
+        "getFull" : true,
+        "fullSelector": ".c-richText"
+      }
+    ]
+  },
+  {
+    "type": "Finance",
+    "path": "finance",
+    "publications": [
+      {
+        "name": "Google News Finance USA",
+        "url": "https://news.google.com/search?q=finance&hl=en-US&gl=US&ceid=US:en",
+        "rss": "https://news.google.com/rss/search?q=finance&hl=en-US&gl=US&ceid=US%3Aen",
+        "key": "google-news-finance-usa",
+        "icon": "/images/google-news.png"
+      }
+    ]
+  },
+  {
+    "type": "Programming",
+    "path": "programming",
+    "publications": [
+      {
+        "name": "Codrops",
+        "url": "https://tympanus.net/codrops/",
+        "rss": "http://feeds2.feedburner.com/tympanus",
+        "key": "codrops",
+        "icon": "/images/codrops.png"
+      }
+    ]
+  }
+]
